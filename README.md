@@ -9,6 +9,8 @@ Create a personal growth platform combining:
 - Goal management
 - Habit tracking
 - Silent social accountability
+- Infinite goal tree breakdown
+- Goal Globe with companions
 - Apple Watch haptic interaction
 - AI coaching
 

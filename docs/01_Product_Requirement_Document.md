@@ -40,14 +40,21 @@ Need daily progress reinforcement.
 Users can create:
 
 - Goals
-- Milestones
-- Daily actions
+- Infinite stage tree (stages and sub-stages, unlimited depth)
+- Milestone nodes (one-time, optional deadline)
+- Recurring action nodes (daily habits)
+
+Node check-in:
+
+- Done (check)
+- Not done (cross): recorded as missed, breaks the streak
+- Parent stages aggregate child completion automatically
 
 ### Check-in System
 
 Record:
 
-- Completion status
+- Completion status per goal node (done / missed)
 - Duration
 - Notes
 
@@ -74,6 +81,12 @@ Record:
 - AI weekly report
 - Advanced analytics
 - Competition mode
+- Goal Globe:
+  - Publish goal trees publicly (opt-in)
+  - Browse worldwide goals on a 3D globe
+  - Adopt (clone) public goal trees, fully editable after adoption
+  - Companion notifications and companion check-in dashboard
+  - Nudge inactive companions (preset messages, rate-limited)
 
 ## 7. Phase 3
 

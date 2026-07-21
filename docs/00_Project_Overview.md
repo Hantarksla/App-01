@@ -19,11 +19,12 @@ The product loop:
 ## Core Features
 
 - Goal management
-- Milestone breakdown
+- Infinite goal tree (recursive stage breakdown)
 - Daily check-in
 - GitHub-style progress heatmap
 - Friend accountability
 - Silent nudge interaction
+- Goal Globe (adopt public goals, companion accountability)
 - Competition mode
 - AI weekly report
 - Apple Watch support
